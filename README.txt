@@ -1,3 +1,5 @@
+#GIT + GITHUB 101
+
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
